@@ -1,7 +1,7 @@
 # html2canvas
 html2canvas 网页截图
 
-···js
+ ```js
 import html2canvas from 'html2canvas';
 
 onPrint = () => {
@@ -22,4 +22,4 @@ onPrint = () => {
         // document.body.appendChild(canvas);
     });
 }
-···
+```
